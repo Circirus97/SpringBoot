@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap");
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  scroll-behavior: smooth;
+  font-family: "Truculenta", sans-serif;
+}
+
+html{
+  height: 100vh;
+  width: 100vw;
+  }
+
+
+body{
+  background-image: url("code-5113374_960_720.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(10%);
+}
+
